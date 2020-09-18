@@ -4,7 +4,7 @@ Pokedex is welcome!
 
 ## :pushpin:Table of Contents
 - [Features](#features)
-- [Tools](#Tools - Inside Project)
+- [Tools](#Tools)
 - [Screenshots](#screenshots)
 
 
@@ -12,7 +12,7 @@ Pokedex is welcome!
 - Changing showing list of Pokemon previous page, next page, First page and Last page buttons.
 - Showing each of Pokemon's name and status page with back botton.
 
-## Tools - Inside Project
+## Tools
 - ### Hooks ![](https://img.shields.io/badge/Hooks-2.6.0-orange.svg)
   React Native APIs turned into React Hooks allowing you to access asynchronous APIs directly in your functional components.
   
