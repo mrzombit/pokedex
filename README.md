@@ -1,6 +1,7 @@
 # :zap:Pokedex:zap: ![](https://img.shields.io/badge/npm-6.14.6-green.svg) ![](https://img.shields.io/badge/ReactNative-2.0.1-blue.svg)
-Pokedex is welcome! 
-> This app will allow you to see list of all pokemon,it shows 20 names for each page and status for each of pokemon
+### Pokedex is welcome! 
+  This app will allow you to see list of all pokemon,it shows 20 names for each page and status for each of pokemon
+  > This is my first Application.
 
 ## :pushpin:Table of Contents
 - [Features](#features)
