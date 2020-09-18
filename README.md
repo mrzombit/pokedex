@@ -4,7 +4,7 @@ Pokedex is welcome!
 
 ## :pushpin:Table of Contents
 - [Features](#features)
-- [Tools - Inside Project](#tools)
+- [Tools](#Tools - Inside Project)
 - [Screenshots](#screenshots)
 
 
