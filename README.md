@@ -42,7 +42,7 @@
   import 'react-native-gesture-handler'
   ```
 - ### Axios ![](https://img.shields.io/badge/Axios-0.20.0-lightgrey.svg)
-  Use Axios for maing HTTP requests to fetch DATA from API
+  Use Axios for making HTTP requests to fetch DATA from API
   #### install Axios
   ```sh
   npm install --save axios
